@@ -55,3 +55,20 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 # Agradecimentos
 
 Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+
+## Contributors
+
+Thanks goes to these people ([emoji key][emojis]):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/marivialpe"><img src="https://avatars.githubusercontent.com/u/134511083?v=4" width="100px;" alt="Mariana Vilela Alves Pereira"/><br /><sub><b>Mariana Vilela Alves Pereira</b></sub></a><br /><a href="" title="Code">💻</a> <a href="https://github.com/marivialpe/trabalho-diego" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/diogopimenteel"><img src="https://avatars.githubusercontent.com/u/44702193?v=4" width="100px;" alt="Diogo Pimentel"/><br /><sub><b>Diogo Pimentel</b></sub></a><br /><a href="" title="Code">💻</a><a href="https://github.com/marivialpe/trabalho-diego" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href=""><img src="" width="100px;" alt="Gabriel Lucas da Silva Duarte"/><br /><sub><b>Gabriel Lucas da Silva Duarte</b></sub></a><br /><a href="" title="Code">💻</a><a href="https://github.com/marivialpe/trabalho-diego" title="Documentation">📖</a></td>
+    </tr>
+  </table>
+</tbody>
