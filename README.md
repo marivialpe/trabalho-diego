@@ -1,7 +1,7 @@
 # Aplicativo CDL
 
 
-![Capa do Projeto](https://img.freepik.com/fotos-gratis/praia-tropical_74190-188.jpg?w=740&t=st=1695737565~exp=1695738165~hmac=bc240a9d39130c362aa1687a95ef7458b238e4d2bc8761d63775c253607d4c3a)
+![Capa do Projeto]([https://img.freepik.com/fotos-gratis/praia-tropical_74190-188.jpg?w=740&t=st=1695737565~exp=1695738165~hmac=bc240a9d39130c362aa1687a95ef7458b238e4d2bc8761d63775c253607d4c3a](https://i.pinimg.com/originals/06/6c/19/066c192a3133698d4956f2f66f9c3c5b.jpg))
 
 # Sobre o Projeto
 
