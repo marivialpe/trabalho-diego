@@ -1,7 +1,7 @@
 # Aplicativo CDL
 
 
-![Capa do Projeto]([# Sobre o Projeto](https://img.freepik.com/fotos-gratis/um-por-do-sol-sobre-uma-praia-com-um-por-do-sol-dourado-ao-fundo_188544-33419.jpg?w=900&t=st=1695739022~exp=1695739622~hmac=daabe4e85f9e0c4d7417223fae71398591429567434b6267517bd51954d0bc5a)
+![Capa do Projeto]([https://picsum.photos/850/280](https://img.freepik.com/fotos-gratis/um-por-do-sol-sobre-uma-praia-com-um-por-do-sol-dourado-ao-fundo_188544-33419.jpg?w=900&t=st=1695739022~exp=1695739622~hmac=daabe4e85f9e0c4d7417223fae71398591429567434b6267517bd51954d0bc5a))
 
 # Sobre o Projeto
 
